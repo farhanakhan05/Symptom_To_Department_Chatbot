@@ -1,0 +1,3 @@
+timestamp,symptoms,severity,is_emergency,self_care_advice,doctor_visit_needed,department,recommended_doctor,recommended_tests
+2026-02-05T10:28:56.142010,"i am having a severe headache and pain in my eyes ,vision becoming blurry",high,False,"Rest in a dark, quiet room and drink water.",True,Ophthalmology,Primary care physician,Basic physical exam
+2026-02-05T10:36:44.162078,i am feeling dizzy,low,False,"Rest, hydrate, and avoid strenuous activity.",False,Allergy and Immunology,Primary care physician,Basic physical exam

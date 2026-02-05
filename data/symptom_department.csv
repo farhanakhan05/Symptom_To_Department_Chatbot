@@ -2,7 +2,7 @@ Symptoms_text,Department
 chest pain shortness of breath sweating nausea dizziness palpitations,Cardiology
 fever cough sore throat runny nose body aches headache chills fatigue,Pulmonology
 headache nausea vomiting sensitivity to light sensitivity to sound aura,Neurology
-stomach pain bloating diarrhea constipation nausea vomiting, Gastroenterology
+stomach pain bloating diarrhea constipation nausea vomiting,Gastroenterology
 skin rash itching redness swelling acne eczema psoriasis,Dermatology
 joint pain swelling stiffness redness warmth fatigue,Rheumatology
 back pain neck pain stiffness numbness muscle weakness,Orthopedics
@@ -14,4 +14,22 @@ allergic reactions sneezing itchy eyes skin rashes wheezing,Allergy and Immunolo
 mood changes anxiety depression hallucinations sleep issues,Psychiatry
 tooth pain bleeding gums bad breath jaw pain,Dentistry
 dizziness vertigo tinnitus hearing loss ear fullness,Otolaryngology
-abdominal pain nausea vomiting jaundice weight loss, Hepatology
+abdominal pain nausea vomiting jaundice weight loss,Hepatology
+chest tightness wheezing shortness of breath cough,Allergy and Immunology
+shortness of breath persistent cough wheezing chest tightness,Pulmonology
+sudden severe headache confusion slurred speech weakness,Neurology
+sprained ankle swelling bruising limited movement,Orthopedics
+burning urination pelvic pain frequent urination,Urology
+skin sores slow healing numbness tingling feet,Endocrinology
+chest pain radiating arm nausea sweating,Cardiology
+eye redness discharge itching light sensitivity,Ophthalmology
+sinus pressure facial pain nasal congestion headache,Otolaryngology
+abdominal cramps diarrhea blood in stool,Gastroenterology
+unexplained weight loss night sweats swollen lymph nodes,Hematology
+joint pain morning stiffness swelling hands,Rheumatology
+toothache sensitivity to cold jaw swelling,Dentistry
+fever night sweats persistent cough weight loss,Infectious Diseases
+irregular heartbeat palpitations dizziness fainting,Cardiology
+skin rash hives itching swelling lips,Allergy and Immunology
+anxiety panic attacks racing thoughts insomnia,Psychiatry
+vision loss flashing lights floaters,Ophthalmology
